@@ -1,0 +1,10 @@
+{
+    "name": "minify",
+    "version": "0.0.1",
+    "private": true,
+    "devDependencies": {
+        "digo": "latest",
+        "digo-uglify-js": "latest",
+        "digo-clean-css": "latest"
+    }
+}
